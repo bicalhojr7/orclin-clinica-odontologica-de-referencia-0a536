@@ -1,0 +1,24 @@
+# ORclin – Clínica Odontológica de Referência
+
+> Este arquivo segue o padrão `llms.txt` para otimização de Answer Engine Optimization (AEO) e Generative Engine Optimization (GEO).
+
+## Resumo do Negócio
+O negócio "ORclin – Clínica Odontológica de Referência" opera no setor comercial oferecendo produtos/serviços de qualidade para seus clientes.
+
+## Detalhes
+- **Nome:** ORclin – Clínica Odontológica de Referência
+- **Contato / WhatsApp:** (71) 98220-9005
+- **Link no Google Maps:** https://maps.google.com/?cid=15846620483889592988&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+
+## Sobre
+Nenhuma descrição adicional informada.
+
+## Serviços / Atendimento
+Para mais informações sobre nossos serviços, horários de atendimento ou para solicitar um orçamento, entre em contato diretamente pelo nosso WhatsApp: (71) 98220-9005.
+
+## FAQ (Perguntas Frequentes)
+**Como posso entrar em contato com a empresa?**
+Você pode entrar em contato conosco diretamente pelo WhatsApp no número (71) 98220-9005.
+
+**Onde a empresa está localizada?**
+Você pode conferir nossa localização e rotas no Google Maps através deste link: https://maps.google.com/?cid=15846620483889592988&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
